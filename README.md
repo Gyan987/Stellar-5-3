@@ -1,4 +1,4 @@
-# ⚡ StellarSwap+ — Level 4 and 5 (Green and Blue  Belt) User Growth, Product Iteration & Pitch
+# ⚡ StellarSwap+ — Level 4 and 5 (Green and Blue  Belt) User Growth, Product Iteration & Pitch 
 
 [![Stellar Testnet](https://img.shields.io/badge/Stellar-Testnet-cyan?style=for-the-badge&logo=stellar)](https://stellar.expert/explorer/testnet)
 [![Soroban Rust](https://img.shields.io/badge/Soroban-Rust%20v22-blue?style=for-the-badge&logo=rust)](https://soroban.stellar.org)
