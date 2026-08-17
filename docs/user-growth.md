@@ -1,4 +1,4 @@
-# StellarSwap+ — User Growth & Onboarding Strategy
+# StellarSwap+ — User Growth & Onboarding Strategy 
 
 This document outlines the Level 5 (Blue Belt) user growth strategy for onboarding 50+ testnet users, collecting structured feedback, and iterating on the product.
 
