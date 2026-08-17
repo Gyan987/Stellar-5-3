@@ -1,4 +1,4 @@
-# Contributing to StellarSwap+
+# Contributing to StellarSwap+ 
 
 Thank you for your interest in contributing to StellarSwap+! This guide covers how to set up the project and submit contributions.
 
