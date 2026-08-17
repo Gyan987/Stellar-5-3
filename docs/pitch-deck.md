@@ -1,5 +1,5 @@
 # StellarSwap+ — Pitch Deck
-
+ 
 ## 📎 Pitch Deck Link
 
 **HTML Presentation**: [`docs/pitch-deck.html`](./pitch-deck.html)
