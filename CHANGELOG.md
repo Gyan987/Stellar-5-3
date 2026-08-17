@@ -4,7 +4,7 @@ All notable changes to **StellarSwap+** are documented here. This project follow
 
 ---
 
-## [5.0.0] — 2026-08-13 (Level 5 — Blue Belt)
+## [5.0.0] — 2026-08-13 (Level 4 and 5 —Green and Blue Belt)
 
 ### Added
 - **Analytics Dashboard** (`AnalyticsDashboard.tsx`): Real-time platform metrics with animated counters, 7-day activity bar chart, rating display, volume/uptime cards, and JSON analytics proof export
