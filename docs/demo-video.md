@@ -1,6 +1,6 @@
 # 📹 StellarSwap+ — Demo Video Walkthrough Guide
 
-This document outlines the demo video walkthrough for the **Level 4 (Green Belt)** submission of StellarSwap+.
+This document outlines the demo video walkthrough for the **Level 4 (Green Belt)** submission of StellarSwap+. 
 
 ---
 
