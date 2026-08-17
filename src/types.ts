@@ -1,5 +1,5 @@
 export interface WalletState {
-  isConnected: boolean;
+  isConnected: boolean; 
   address: string | null;
   walletId: string | null;
   walletName: string | null;
