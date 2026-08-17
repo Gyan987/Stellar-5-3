@@ -1,4 +1,4 @@
-import React, { useState, useEffect, Suspense, lazy } from 'react';
+import React, { useState, useEffect, Suspense, lazy } from 'react'; 
 import { WalletState, WalletType, AppError, TxStatus, ContractEvent, PoolReserves, EscrowItem, AppTab } from './types';
 import { SUPPORTED_WALLETS, checkInstalledWallets, connectWallet, parseWalletError } from './services/wallet';
 import { fetchPoolReserves, executeContractSwap, executeContractDeposit } from './services/contract';
